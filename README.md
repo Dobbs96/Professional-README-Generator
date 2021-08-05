@@ -8,6 +8,8 @@ In this project i will be creating a README.md generator. I will include Title a
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
+More information on MIT please check [MIT license](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+
 ## Table of Contents
 
 - [Acceptance Criteria](#acceptance-criteria)
@@ -15,6 +17,7 @@ In this project i will be creating a README.md generator. I will include Title a
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Acknowledgements](#acknowledgements)
 
 ## Acceptance Criteria
 
@@ -44,19 +47,26 @@ Clone Repo
 2. Make sure you have node installed
 3. Open Terminal/Bash
 4. Make sure you are in the right folder on the terminal.
-   1. Tpye npm init
-   2. Type npm i inquirer
-   3. Type node index.js
-   4. Answer quetions
-5. A new README should be added to the folder.
+   1. Type npm i (will download node_module for use)
+   2. Type node index.js
+   3. Answer quetions
+5. A new README should be added to the utils folder.
+6. Finally, change name to README.md and add to your profile.
 
 ## Contributing
 
 James Dobbs
 
-## Tests
+## Test
+
+![Video how it works](./utils/README-generator.gif)
 
 ## Acknowledgements
 
 [Shields.io](https://shields.io/category/license)
+
 [GitHub Licensing](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
+
+[Nodejs.org](https://nodejs.org/dist/latest-v14.x/docs/api/fs.html)
+
+[npm inquirer](https://www.npmjs.com/package/inquirer)

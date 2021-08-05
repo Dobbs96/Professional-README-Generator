@@ -1,12 +1,12 @@
-# test
+# TITLE
 
 ## Description
 
-test
+Descrition
 
 ## Licensing
 
-[![license](https://img.shields.io/badge/license-None-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
 For more information please check [GitHub Licensing](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
 
@@ -21,25 +21,25 @@ For more information please check [GitHub Licensing](https://docs.github.com/en/
 
 ## Installation
 
-test
+Instal
 
 ## Usage
 
-test
+usage
 
 ## Contributing
 
-test
+Self
 
 ## Tests
 
-test
+Test here
 
 ## Acknowledgments
 
 This README was Created by [Dobbs96](https://github.com/Dobbs96) READMEs Generator.
-test
+nodejs and inquirer
 
 ## Questions
-- Check my GitHub [test](https://github.com/test)
-- If you have any quetions don't hesitate to email at test
+- Check my GitHub [dobbs96](https://github.com/dobbs96)
+- If you have any quetions don't hesitate to email at sorry
