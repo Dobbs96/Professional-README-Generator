@@ -29,6 +29,7 @@ ${data.description}
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Acknowledgments](#acknowledgments)
 
 ## Installation
 
@@ -45,6 +46,10 @@ ${data.contributing}
 ## Tests
 
 ${data.test}
+
+## Acknowledgments
+
+${data.acknowledgments}
 
 ## Questions
 - Check my GitHub [${data.github}](https://github.com/${data.github})
