@@ -16,9 +16,11 @@ function generateMarkdown(data) {
 
 ## Description
 
+${data.description}
+
 ## Licensing
 
-[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-${data.licensing}-blue)](https://shields.io)
 
 ## Table of Contents
 
@@ -30,14 +32,23 @@ function generateMarkdown(data) {
 
 ## Installation
 
+${data.installation}
+
 ## Usage
+
+${data.usage}
 
 ## Contributing
 
+${data.contributing}
+
 ## Tests
 
-## Questions
+${data.test}
 
+## Questions
+- Check my GitHub [${data.github}](https://github.com/${data.github})
+- If you have any quetions don't hesitate to email at ${data.email}
 `;
 }
 
