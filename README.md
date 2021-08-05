@@ -59,3 +59,4 @@ James Dobbs
 ## Acknowledgements
 
 [Shields.io](https://shields.io/category/license)
+[GitHub Licensing](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/licensing-a-repository)
