@@ -14,6 +14,30 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+## Description
+
+## Licensing
+
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+
+## Usage
+
+## Contributing
+
+## Tests
+
+## Questions
+
 `;
 }
 
