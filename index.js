@@ -3,6 +3,7 @@ const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 const filesName = "./utils/generatedREADME.md";
+// ---------------file location/filesname
 
 // TODO: Create an array of questions for user input
 const questions = [
