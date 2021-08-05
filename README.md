@@ -61,6 +61,8 @@ James Dobbs
 
 ![Video how it works](./utils/README-generator.gif)
 
+[Full video](https://drive.google.com/file/d/1f6Qd21up6uybEttYsI3tbZt3ZFbpfo_d/preview)
+
 ## Acknowledgements
 
 [Shields.io](https://shields.io/category/license)
