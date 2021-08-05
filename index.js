@@ -24,14 +24,7 @@ const questions = [
     type: "list",
     message: "Choose one of the following licensing;",
     name: "licensing",
-    choices: [
-      "Apache",
-      "MIT",
-      "Mozilla-Public",
-      "GNU-General-Public",
-      "Common-Development-and Distribution",
-      "None",
-    ],
+    choices: ["Apache", "MIT", "MozillaPublic", "GNUGeneralPublic", "None"],
   },
   // Installation
   {
