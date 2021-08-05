@@ -16,7 +16,7 @@ More information on MIT please check [MIT license](https://github.com/git/git-sc
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
+- [Test](#test)
 - [Acknowledgements](#acknowledgements)
 
 ## Acceptance Criteria
@@ -62,6 +62,8 @@ James Dobbs
 ![Video how it works](./utils/README-generator.gif)
 
 [Full video](https://drive.google.com/file/d/1f6Qd21up6uybEttYsI3tbZt3ZFbpfo_d/preview)
+
+Full video takes time to load. When link is clicked click the pop_up on top right!
 
 ## Acknowledgements
 
