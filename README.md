@@ -15,7 +15,6 @@ In this project i will be creating a README.md generator. I will include Title a
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
-- [Questions](#questions)
 
 ## Acceptance Criteria
 
@@ -37,10 +36,22 @@ In this project i will be creating a README.md generator. I will include Title a
 
 ## Installation
 
+Clone Repo
+
 ## Usage
+
+1. Open the cloned repo
+2. Make sure you have node installed
+3. Open Terminal/Bash
+4. Make sure you are in the right folder on the terminal.
+   1. Tpye npm init
+   2. Type npm i inquirer
+   3. Type node index.js
+   4. Answer quetions
+5. A new README should be added to the folder.
 
 ## Contributing
 
-## Tests
+James Dobbs
 
-## Questions
+## Tests
